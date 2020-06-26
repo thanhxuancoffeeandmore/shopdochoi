@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '185.176.43.89',
+	'hostname' => 'fdb22.awardspace.net',
 	'username' => '3489288_shop',
 	'password' => 'Dung1234',
 	'database' => '3489288_shop',
